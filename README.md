@@ -3,7 +3,7 @@ This repository contains a description of the programming task used to evaluate 
 
 ## Billing API
 
-"XYZ Inc." is an imaginary company that main business is to sell a variety of goods and services online via their E-Shop platform. Currently, there is a need for a new billing API that could process orders.
+"XYZ Inc." is an imaginary company with main business focus on selling a variety of goods and services online via their E-Shop platform. Currently, there is a need for a new billing API that could process orders.
 
 Each incoming order should contain:
 * Order number;
