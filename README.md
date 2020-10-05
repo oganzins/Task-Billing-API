@@ -18,7 +18,8 @@ When the billing service processes order, it sends the order to an appropriate p
 
 * Code should be covered with unit tests;
 * Programming language - C#;
-* Solution should be put into Github.
+* Solution should be put into Github;
+* Use REST API.
 
 Rather than that, there are no restrictions - you can use any .NET framework you like, add any dependencies you want and enrich this API by any functionality you want to. The main goal of this task is to understand how you think and to see how your actual code looks.
 
